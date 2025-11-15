@@ -1,0 +1,834 @@
+///----------------------> For Multiple Records in One script <-------------------------///
+
+
+--------------------------------------------------------------------------------
+1. Search Address: 101 Osprey Pass Huntertown, IN 46748
+--------------------------------------------------------------------------------
+ 
+ 
+Property Information:
+Property Information
+Tax Year/Pay Year
+2024 / 2025
+Parcel Number
+02-02-16-201-009.000-058
+Duplicate Number
+123097294
+Property Type
+Real
+Tax Unit / Description
+58 - Huntertown
+Property Class
+RESIDENTIAL ONE FAMILY DWELLING ON A PLATTED LOT
+Mortgage Company
+None
+TIF
+None
+Homestead Credit Filed?
+Yes
+Over 65 Circuit Breaker?
+No
+Legal Description
+Note: Not to be used on legal documents
+Lot 74 The Bluffs At Twin Eagles Sec 1
+Section-Township-Range
+No Info
+Parcel Acres
+No Info
+Lot Number
+No Info
+Block/Subdivision
+No info
+ 
+Tax Information:
+Tax Bill Adjustments Balance
+Spring Tax: $2,799.78 $0.00 $2,799.78
+Spring Penalty: $0.00 $0.00 $0.00
+Spring Annual: $0.00 $0.00 $0.00
+Fall Tax: $2,799.78 $0.00 $2,799.78
+Fall Penalty: $0.00 $0.00 $0.00
+Fall Annual: $0.00 $0.00 $0.00
+Delq NTS Tax: $2,544.45 $0.00 $2,544.45
+Delq NTS Pen: $254.44 $0.00 $254.44
+Delq TS Tax: $0.00 $0.00 $0.00
+Delq TS Pen: $0.00 $0.00 $0.00
+Other Assess: $0.00 $0.00 $0.00
+Late Fine: $0.00 $0.00 $0.00
+Late Penalty: $0.00 $0.00 $0.00
+Demand Fee: $0.00 $0.00 $0.00
+Jdg Tax/Pen/Int: $0.00 $0.00 $0.00
+Judgement Fee: $0.00 $0.00 $0.00
+Advert Fee: $0.00 $0.00 $0.00
+Tax Sale Fee: $0.00 $0.00 $0.00
+NSF Fee: $0.00 $0.00 $0.00
+Certified to Court: $0.00 $0.00 $0.00
+LIT Credits: $845.92 $0.00 $845.92
+PTRC: $0.00 $0.00 $0.00
+HMST Credit: $0.00 $0.00 $0.00
+Circuit Breaker Credit: $0.00 $0.00 $0.00
+Over 65 CB Credit: $0.00 $0.00 $0.00
+Tax and Penalty: $8,398.45
+Other Assess (+): $0.00
+Fees (+): $0.00
+Cert to Court (-): $0.00
+Subtotal: $8,398.45
+    Receipts: $8,398.45
+Total Due: $0.00
+    Surplus Transfer: $0.00
+Account Balance: $0.00
+ 
+Payment History:
+Payable Year Entry Date Payable Period Amount Paid Notes Property Project
+2025 01/17/2025 S $2,798.89 Lock Box Payment 1/16/2025 Check Nbr 884275 N
+2025 05/06/2025 S $2,799.78 Lock Box Payment 5/5/2025 Check Nbr 787585 N
+2025 10/24/2025 F $2,799.78 Lock Box Payment 10/23/2025 Check Nbr 774741 N
+ 
+Tax History:
+Pay Year Spring Fall Delinquencies Total Tax Payments
+2025
+$2,799.78 $2,799.78 $2,798.89 $8,398.45 $8,398.45
+2024 $2,544.45 $2,544.45 $0.00 $5,088.90 $2,544.45
+2023 $2,281.13 $2,281.13 $0.00 $4,562.26 $4,562.26
+2022 $2,389.07 $2,389.07 $0.00 $4,778.14 $4,778.14
+2021 $2,250.22 $2,250.22 $0.00 $4,500.44 $4,500.44
+2020 $2,414.21 $2,414.21 $0.00 $4,828.42 $4,828.42
+2019 $2,276.86 $2,276.86 $0.00 $4,553.72 $4,553.72
+2018 $2,309.50 $2,309.50 $0.00 $4,619.00 $4,619.00
+2017 $2,362.50 $2,362.50 $0.00 $4,725.00 $4,725.00
+ 
+Due Dates:
+May 12, 2025
+November 10, 2025
+ 
+==========================================================================================
+ 
+ 
+--------------------------------------------------------------------------------
+2. Search Address: 10125 W North County Line Rd, Churubusco, IN 46723
+--------------------------------------------------------------------------------
+ 
+ 
+Property Information:
+Property Information
+Tax Year/Pay Year
+2024 / 2025
+Parcel Number
+02-01-05-200-001.000-044
+Duplicate Number
+1810335
+Property Type
+Real
+Tax Unit / Description
+44 - Eel River
+Property Class
+RESIDENTIAL ONE FAMILY DWELLING ON UNPLATTED LAND OF 0-9.99 ACRES
+Mortgage Company
+None
+TIF
+None
+Homestead Credit Filed?
+Yes
+Over 65 Circuit Breaker?
+No
+Legal Description
+Note: Not to be used on legal documents
+W 735 Of N 595 Ne1/4 Sec 5 Ex E 369.45 Ft
+Section-Township-Range
+No Info
+Parcel Acres
+5
+Lot Number
+No Info
+Block/Subdivision
+No info
+ 
+Tax Information:
+Tax Bill Adjustments Balance
+Spring Tax: $1,257.36 $0.00 $1,257.36
+Spring Penalty: $0.00 $0.00 $0.00
+Spring Annual: $0.00 $0.00 $0.00
+Fall Tax: $1,257.36 $0.00 $1,257.36
+Fall Penalty: $0.00 $0.00 $0.00
+Fall Annual: $0.00 $0.00 $0.00
+Delq NTS Tax: $1,255.62 $0.00 $1,255.62
+Delq NTS Pen: $125.56 $0.00 $125.56
+Delq TS Tax: $0.00 $0.00 $0.00
+Delq TS Pen: $0.00 $0.00 $0.00
+Other Assess: $10.00 $0.00 $10.00
+Late Fine: $0.00 $0.00 $0.00
+Late Penalty: $0.00 $0.00 $0.00
+Demand Fee: $0.00 $0.00 $0.00
+Jdg Tax/Pen/Int: $0.00 $0.00 $0.00
+Judgement Fee: $0.00 $0.00 $0.00
+Advert Fee: $0.00 $0.00 $0.00
+Tax Sale Fee: $0.00 $0.00 $0.00
+NSF Fee: $0.00 $0.00 $0.00
+Certified to Court: $0.00 $0.00 $0.00
+LIT Credits: $295.93 $0.00 $295.93
+PTRC: $0.00 $0.00 $0.00
+HMST Credit: $0.00 $0.00 $0.00
+Circuit Breaker Credit: $0.00 $0.00 $0.00
+Over 65 CB Credit: $0.00 $0.00 $0.00
+Tax and Penalty: $3,895.90
+Other Assess (+): $10.00
+Fees (+): $0.00
+Cert to Court (-): $0.00
+Subtotal: $3,905.90
+    Receipts: $2,648.54
+Total Due: $1,257.36
+    Surplus Transfer: $0.00
+Account Balance: $1,257.36
+ 
+Payment History:
+Payable Year Entry Date Payable Period Amount Paid Notes Property Project
+2025 04/04/2025 S $2,648.54 Lock Box Payment 4/3/2025 Check Nbr 05558D N
+ 
+Tax History:
+Pay Year Spring Fall Delinquencies Total Tax Payments
+2025
+$1,267.36 $1,257.36 $1,381.18 $3,905.90 $2,648.54
+2024 $1,265.62 $1,255.62 $0.00 $2,521.24 $1,265.62
+2023 $850.26 $840.26 $42.51 $1,733.03 $1,733.03
+2022 $829.26 $819.26 $0.00 $1,648.52 $1,648.52
+2021 $813.04 $803.04 $0.00 $1,616.08 $1,616.08
+2020 $813.16 $803.16 $0.00 $1,616.32 $1,616.32
+2019 $789.92 $779.92 $0.00 $1,569.84 $1,569.84
+2018 $843.70 $833.70 $0.00 $1,677.40 $1,677.40
+2017 $931.30 $921.30 $0.00 $1,852.60 $1,852.60
+2016 $987.60 $977.60 $0.00 $1,965.20 $1,965.20
+2015 $983.66 $973.66 $0.00 $1,957.32 $1,957.32
+2014 $1,028.91 $1,018.91 $0.00 $2,047.82 $2,047.82
+2013 $1,045.02 $1,045.02 $0.00 $2,090.04 $2,090.04
+2012 $878.24 $868.24 $0.00 $1,746.48 $1,746.48
+2011 $894.14 $884.14 $0.00 $1,778.28 $1,778.28
+ 
+Due Dates:
+May 12, 2025
+November 10, 2025
+ 
+==========================================================================================
+ 
+ 
+--------------------------------------------------------------------------------
+3. Search Address: 10108 BRYIE RD, CHURUBUSCO, IN 46723
+--------------------------------------------------------------------------------
+ 
+ 
+Property Information:
+Property Information
+Tax Year/Pay Year
+2024 / 2025
+Parcel Number
+02-01-05-400-010.000-044
+Duplicate Number
+1810363
+Property Type
+Real
+Tax Unit / Description
+44 - Eel River
+Property Class
+AGRICULTURAL - CASH GRAIN/GENERAL FARM
+Mortgage Company
+None
+TIF
+None
+Homestead Credit Filed?
+Yes
+Over 65 Circuit Breaker?
+No
+Legal Description
+Note: Not to be used on legal documents
+S 641 E 893 S Of Rr W1/2 Se1/4sec 5
+Section-Township-Range
+No Info
+Parcel Acres
+12.48
+Lot Number
+No Info
+Block/Subdivision
+No info
+ 
+Tax Information:
+Tax Bill Adjustments Balance
+Spring Tax: $536.54 $0.00 $536.54
+Spring Penalty: $0.00 $0.00 $0.00
+Spring Annual: $0.00 $0.00 $0.00
+Fall Tax: $536.54 $0.00 $536.54
+Fall Penalty: $0.00 $0.00 $0.00
+Fall Annual: $0.00 $0.00 $0.00
+Delq NTS Tax: $0.00 $0.00 $0.00
+Delq NTS Pen: $0.00 $0.00 $0.00
+Delq TS Tax: $0.00 $0.00 $0.00
+Delq TS Pen: $0.00 $0.00 $0.00
+Other Assess: $137.28 $0.00 $137.28
+Late Fine: $0.00 $0.00 $0.00
+Late Penalty: $0.00 $0.00 $0.00
+Demand Fee: $0.00 $0.00 $0.00
+Jdg Tax/Pen/Int: $0.00 $0.00 $0.00
+Judgement Fee: $0.00 $0.00 $0.00
+Advert Fee: $0.00 $0.00 $0.00
+Tax Sale Fee: $0.00 $0.00 $0.00
+NSF Fee: $0.00 $0.00 $0.00
+Certified to Court: $0.00 $0.00 $0.00
+LIT Credits: $130.44 $0.00 $130.44
+PTRC: $0.00 $0.00 $0.00
+HMST Credit: $0.00 $0.00 $0.00
+Circuit Breaker Credit: $0.00 $0.00 $0.00
+Over 65 CB Credit: $0.00 $0.00 $0.00
+Tax and Penalty: $1,073.08
+Other Assess (+): $137.28
+Fees (+): $0.00
+Cert to Court (-): $0.00
+Subtotal: $1,210.36
+    Receipts: $1,210.36
+Total Due: $0.00
+    Surplus Transfer: $0.00
+Account Balance: $0.00
+ 
+Payment History:
+Payable Year Entry Date Payable Period Amount Paid Notes Property Project
+2025 05/14/2025 S $605.18 Lock Box Payment Check Nbr 888 N
+2025 10/13/2025 F $605.18 Lock Box Payment 10/11/2025 Check Nbr 566566 N
+ 
+Tax History:
+Pay Year Spring Fall Delinquencies Total Tax Payments
+2025
+$605.18 $605.18 $0.00 $1,210.36 $1,210.36
+2024 $545.70 $533.22 $0.00 $1,078.92 $1,078.92
+2023 $323.78 $311.30 $318.82 $953.90 $953.90
+2022 $302.32 $289.84 $0.00 $592.16 $302.32
+2021 $294.08 $281.60 $0.00 $575.68 $575.68
+2020 $309.81 $297.33 $0.00 $607.14 $607.14
+2019 $297.13 $284.65 $0.00 $581.78 $581.78
+2018 $323.24 $317.00 $0.00 $640.24 $640.24
+2017 $344.10 $337.86 $0.00 $681.96 $681.96
+2016 $602.22 $595.98 $0.00 $1,198.20 $1,198.20
+2015 $687.71 $687.71 $0.00 $1,375.42 $1,375.42
+2014 $643.86 $637.62 $0.00 $1,281.48 $1,281.48
+2013 $661.74 $655.50 $0.00 $1,317.24 $1,317.24
+2012 $472.90 $466.66 $0.00 $939.56 $939.56
+2011 $357.84 $351.60 $0.00 $709.44 $709.44
+ 
+Due Dates:
+May 12, 2025
+November 10, 2025
+ 
+==========================================================================================
+ 
+ 
+--------------------------------------------------------------------------------
+4. Search Address: 19101 Mcduffee Rd Churubusco, IN 46723
+--------------------------------------------------------------------------------
+ 
+ 
+Property Information:
+Property Information
+Tax Year/Pay Year
+2024 / 2025
+Parcel Number
+02-01-06-100-002.000-044
+Duplicate Number
+1810369
+Property Type
+Real
+Tax Unit / Description
+44 - Eel River
+Property Class
+RESIDENTIAL ONE FAMILY DWELLING ON UNPLATTED LAND OF 0-9.99 ACRES
+Mortgage Company
+Cotality (prev Corelogic)
+Mtg Company Last Changed
+10/10/2025
+TIF
+None
+Homestead Credit Filed?
+Yes
+Over 65 Circuit Breaker?
+No
+Legal Description
+Note: Not to be used on legal documents
+S 255 Of N 1280 Of E 310 Ft W Of Rd Nw 1/4 Sec 6
+Section-Township-Range
+No Info
+Parcel Acres
+1.82
+Lot Number
+No Info
+Block/Subdivision
+No info
+ 
+Tax Information:
+Tax Bill Adjustments Balance
+Spring Tax: $1,053.67 $0.00 $1,053.67
+Spring Penalty: $0.00 $0.00 $0.00
+Spring Annual: $0.00 $0.00 $0.00
+Fall Tax: $1,053.67 $0.00 $1,053.67
+Fall Penalty: $0.00 $0.00 $0.00
+Fall Annual: $0.00 $0.00 $0.00
+Delq NTS Tax: $0.00 $0.00 $0.00
+Delq NTS Pen: $0.00 $0.00 $0.00
+Delq TS Tax: $0.00 $0.00 $0.00
+Delq TS Pen: $0.00 $0.00 $0.00
+Other Assess: $30.00 $0.00 $30.00
+Late Fine: $0.00 $0.00 $0.00
+Late Penalty: $0.00 $0.00 $0.00
+Demand Fee: $0.00 $0.00 $0.00
+Jdg Tax/Pen/Int: $0.00 $0.00 $0.00
+Judgement Fee: $0.00 $0.00 $0.00
+Advert Fee: $0.00 $0.00 $0.00
+Tax Sale Fee: $0.00 $0.00 $0.00
+NSF Fee: $0.00 $0.00 $0.00
+Certified to Court: $0.00 $0.00 $0.00
+LIT Credits: $303.16 $0.00 $303.16
+PTRC: $0.00 $0.00 $0.00
+HMST Credit: $0.00 $0.00 $0.00
+Circuit Breaker Credit: $0.00 $0.00 $0.00
+Over 65 CB Credit: $0.00 $0.00 $0.00
+Tax and Penalty: $2,107.34
+Other Assess (+): $30.00
+Fees (+): $0.00
+Cert to Court (-): $0.00
+Subtotal: $2,137.34
+    Receipts: $1,068.67
+Total Due: $1,068.67
+    Surplus Transfer: $0.00
+Account Balance: $1,068.67
+ 
+Payment History:
+Payable Year Entry Date Payable Period Amount Paid Notes Property Project
+2025 05/08/2025 S $1,068.67 Lock Box Payment 05/06/2025 N
+ 
+Tax History:
+Pay Year Spring Fall Delinquencies Total Tax Payments
+2025
+$1,068.67 $1,068.67 $0.00 $2,137.34 $1,068.67
+2024 $1,046.41 $1,046.41 $0.00 $2,092.82 $2,092.82
+2023 $562.74 $562.74 $0.00 $1,125.48 $1,125.48
+2022 $418.34 $393.34 $0.00 $811.68 $811.68
+2021 $376.60 $351.60 $0.00 $728.20 $728.20
+2020 $313.64 $288.64 $0.00 $602.28 $602.28
+2019 $287.54 $287.54 $0.00 $575.08 $575.08
+2018 $287.52 $262.52 $0.00 $550.04 $550.04
+2017 $360.02 $360.02 $0.00 $720.04 $720.04
+2016 $249.30 $249.30 $0.00 $498.60 $498.60
+2015 $214.04 $214.04 $0.00 $428.08 $428.08
+2014 $200.72 $200.72 $0.00 $401.44 $401.44
+2013 $183.19 $183.19 $0.00 $366.38 $366.38
+2012 $266.19 $266.19 $0.00 $532.38 $532.38
+2011 $238.24 $233.24 $0.00 $471.48 $471.48
+ 
+Due Dates:
+May 12, 2025
+November 10, 2025
+ 
+==========================================================================================
+ 
+ 
+--------------------------------------------------------------------------------
+5. Search Address: 5101 Greyson Heights Dr Auburn, IN 46706
+--------------------------------------------------------------------------------
+ 
+ 
+Property Information:
+Property Information
+Tax Year/Pay Year
+2024 / 2025
+Parcel Number
+02-02-01-295-029.000-057
+Duplicate Number
+164877525
+Property Type
+Real
+Tax Unit / Description
+57 - Perry
+Property Class
+RESIDENTIAL ONE FAMILY DWELLING ON A PLATTED LOT
+Mortgage Company
+Cotality (prev Corelogic)
+Mtg Company Last Changed
+10/10/2025
+TIF
+None
+Homestead Credit Filed?
+Yes
+Over 65 Circuit Breaker?
+No
+Legal Description
+Note: Not to be used on legal documents
+Greyson Heights Lot 29
+Section-Township-Range
+0001, 0032, 12
+Parcel Acres
+No Info
+Lot Number
+29
+Block/Subdivision
+No info
+ 
+Tax Information:
+Tax Bill Adjustments Balance
+Spring Tax: $2,309.01 $0.00 $2,309.01
+Spring Penalty: $0.00 $0.00 $0.00
+Spring Annual: $0.00 $0.00 $0.00
+Fall Tax: $2,309.01 $0.00 $2,309.01
+Fall Penalty: $0.00 $0.00 $0.00
+Fall Annual: $0.00 $0.00 $0.00
+Delq NTS Tax: $0.00 $0.00 $0.00
+Delq NTS Pen: $0.00 $0.00 $0.00
+Delq TS Tax: $0.00 $0.00 $0.00
+Delq TS Pen: $0.00 $0.00 $0.00
+Other Assess: $55.00 $0.00 $55.00
+Late Fine: $0.00 $0.00 $0.00
+Late Penalty: $0.00 $0.00 $0.00
+Demand Fee: $0.00 $0.00 $0.00
+Jdg Tax/Pen/Int: $0.00 $0.00 $0.00
+Judgement Fee: $0.00 $0.00 $0.00
+Advert Fee: $0.00 $0.00 $0.00
+Tax Sale Fee: $0.00 $0.00 $0.00
+NSF Fee: $0.00 $0.00 $0.00
+Certified to Court: $0.00 $0.00 $0.00
+LIT Credits: $696.19 $0.00 $696.19
+PTRC: $0.00 $0.00 $0.00
+HMST Credit: $0.00 $0.00 $0.00
+Circuit Breaker Credit: $0.00 $0.00 $0.00
+Over 65 CB Credit: $0.00 $0.00 $0.00
+Tax and Penalty: $4,618.02
+Other Assess (+): $55.00
+Fees (+): $0.00
+Cert to Court (-): $0.00
+Subtotal: $4,673.02
+    Receipts: $2,336.51
+Total Due: $2,336.51
+    Surplus Transfer: $0.00
+Account Balance: $2,336.51
+ 
+Payment History:
+Payable Year Entry Date Payable Period Amount Paid Notes Property Project
+2025 05/08/2025 S $2,336.51 Lock Box Payment 05/06/2025 N
+ 
+Tax History:
+Pay Year Spring Fall Delinquencies Total Tax Payments
+2025
+$2,336.51 $2,336.51 $0.00 $4,673.02 $2,336.51
+2024 $2,092.60 $2,092.60 $0.00 $4,185.20 $4,185.20
+2023 $1,498.42 $1,498.42 $0.00 $2,996.84 $2,996.84
+2022 $212.96 $212.96 $0.00 $425.92 $425.92
+ 
+Due Dates:
+May 12, 2025
+November 10, 2025
+ 
+==========================================================================================
+ 
+ 
+--------------------------------------------------------------------------------
+6. Search Address: 1017 Ironstone Cv Fort Wayne, IN 46845
+--------------------------------------------------------------------------------
+ 
+ 
+Property Information:
+Property Information
+Tax Year/Pay Year
+2024 / 2025
+Parcel Number
+02-02-29-280-018.000-058
+Duplicate Number
+160274386
+Property Type
+Real
+Tax Unit / Description
+58 - Huntertown
+Property Class
+RESIDENTIAL ONE FAMILY DWELLING ON A PLATTED LOT
+Mortgage Company
+Cotality (prev Corelogic)
+Mtg Company Last Changed
+10/10/2025
+TIF
+None
+Homestead Credit Filed?
+Yes
+Over 65 Circuit Breaker?
+No
+Legal Description
+Note: Not to be used on legal documents
+Ravenswood Sec IV Lot 128
+Section-Township-Range
+0029, 0032, 12
+Parcel Acres
+No Info
+Lot Number
+128
+Block/Subdivision
+No info
+ 
+Tax Information:
+Tax Bill Adjustments Balance
+Spring Tax: $1,235.60 $0.00 $1,235.60
+Spring Penalty: $0.00 $0.00 $0.00
+Spring Annual: $0.00 $0.00 $0.00
+Fall Tax: $1,235.60 $0.00 $1,235.60
+Fall Penalty: $0.00 $0.00 $0.00
+Fall Annual: $0.00 $0.00 $0.00
+Delq NTS Tax: $0.00 $0.00 $0.00
+Delq NTS Pen: $0.00 $0.00 $0.00
+Delq TS Tax: $0.00 $0.00 $0.00
+Delq TS Pen: $0.00 $0.00 $0.00
+Other Assess: $15.00 $0.00 $15.00
+Late Fine: $0.00 $0.00 $0.00
+Late Penalty: $0.00 $0.00 $0.00
+Demand Fee: $0.00 $0.00 $0.00
+Jdg Tax/Pen/Int: $0.00 $0.00 $0.00
+Judgement Fee: $0.00 $0.00 $0.00
+Advert Fee: $0.00 $0.00 $0.00
+Tax Sale Fee: $0.00 $0.00 $0.00
+NSF Fee: $0.00 $0.00 $0.00
+Certified to Court: $0.00 $0.00 $0.00
+LIT Credits: $373.32 $0.00 $373.32
+PTRC: $0.00 $0.00 $0.00
+HMST Credit: $0.00 $0.00 $0.00
+Circuit Breaker Credit: $0.00 $0.00 $0.00
+Over 65 CB Credit: $0.00 $0.00 $0.00
+Tax and Penalty: $2,471.20
+Other Assess (+): $15.00
+Fees (+): $0.00
+Cert to Court (-): $0.00
+Subtotal: $2,486.20
+    Receipts: $2,189.98
+Total Due: $296.22
+    Surplus Transfer: $0.00
+Account Balance: $296.22
+ 
+Payment History:
+Payable Year Entry Date Payable Period Amount Paid Notes Property Project
+2025 05/08/2025 S $1,250.60 Lock Box Payment 05/06/2025 N
+2025 06/23/2025 F $939.38 N
+ 
+Tax History:
+Pay Year Spring Fall Delinquencies Total Tax Payments
+2025
+$1,250.60 $1,235.60 $0.00 $2,486.20 $2,189.98
+2024 $1,229.16 $1,214.16 $0.00 $2,443.32 $2,443.32
+2023 $1,079.48 $1,064.48 $1,033.32 $3,177.28 $3,177.28
+2022 $954.38 $939.38 $0.00 $1,893.76 $954.38
+ 
+Due Dates:
+May 12, 2025
+November 10, 2025
+ 
+==========================================================================================
+ 
+ 
+--------------------------------------------------------------------------------
+7. Search Address: 12320 Duglay Rd Churubusco, IN 46723
+--------------------------------------------------------------------------------
+ 
+ 
+Property Information:
+Property Information
+Tax Year/Pay Year
+2024 / 2025
+Parcel Number
+02-01-07-300-015.000-044
+Duplicate Number
+1810447
+Property Type
+Real
+Tax Unit / Description
+44 - Eel River
+Property Class
+AGRICULTURAL - OTHER AGRICULTURAL USE
+Mortgage Company
+None
+TIF
+None
+Homestead Credit Filed?
+No
+Over 65 Circuit Breaker?
+No
+Legal Description
+Note: Not to be used on legal documents
+19 A W 1/2 SW 1/4 S of RR Ex Pt To County Sec 7 & Ex Tr
+Section-Township-Range
+No Info
+Parcel Acres
+14.851
+Lot Number
+No Info
+Block/Subdivision
+No info
+ 
+Tax Information:
+Tax Bill Adjustments Balance
+Spring Tax: $1,208.58 $0.00 $1,208.58
+Spring Penalty: $0.00 $0.00 $0.00
+Spring Annual: $0.00 $0.00 $0.00
+Fall Tax: $1,208.58 $0.00 $1,208.58
+Fall Penalty: $0.00 $0.00 $0.00
+Fall Annual: $0.00 $0.00 $0.00
+Delq NTS Tax: $0.00 $0.00 $0.00
+Delq NTS Pen: $0.00 $0.00 $0.00
+Delq TS Tax: $0.00 $0.00 $0.00
+Delq TS Pen: $0.00 $0.00 $0.00
+Other Assess: $29.68 $0.00 $29.68
+Late Fine: $0.00 $0.00 $0.00
+Late Penalty: $0.00 $0.00 $0.00
+Demand Fee: $0.00 $0.00 $0.00
+Jdg Tax/Pen/Int: $0.00 $0.00 $0.00
+Judgement Fee: $0.00 $0.00 $0.00
+Advert Fee: $0.00 $0.00 $0.00
+Tax Sale Fee: $0.00 $0.00 $0.00
+NSF Fee: $0.00 $0.00 $0.00
+Certified to Court: $0.00 $0.00 $0.00
+LIT Credits: $173.46 $0.00 $173.46
+PTRC: $0.00 $0.00 $0.00
+HMST Credit: $0.00 $0.00 $0.00
+Circuit Breaker Credit: $0.00 $0.00 $0.00
+Over 65 CB Credit: $0.00 $0.00 $0.00
+Tax and Penalty: $2,417.16
+Other Assess (+): $29.68
+Fees (+): $0.00
+Cert to Court (-): $0.00
+Subtotal: $2,446.84
+    Receipts: $1,223.42
+Total Due: $1,223.42
+    Surplus Transfer: $0.00
+Account Balance: $1,223.42
+ 
+Payment History:
+Payable Year Entry Date Payable Period Amount Paid Notes Property Project
+2025 05/15/2025 S $1,223.42 Lock Box Payment Check Nbr 1887 N
+ 
+Tax History:
+Pay Year Spring Fall Delinquencies Total Tax Payments
+2025
+$1,223.42 $1,223.42 $0.00 $2,446.84 $1,223.42
+2024 $988.12 $988.12 $0.00 $1,976.24 $1,976.24
+2023 $905.06 $890.21 $0.00 $1,795.27 $1,795.27
+2022 $820.33 $805.48 $0.00 $1,625.81 $1,625.81
+2021 $880.75 $865.90 $0.00 $1,746.65 $1,746.65
+2020 $933.96 $933.96 $0.00 $1,867.92 $1,867.92
+2019 $904.49 $889.64 $0.00 $1,794.13 $1,794.13
+2018 $970.26 $970.26 $0.00 $1,940.52 $1,940.52
+2017 $1,477.79 $1,462.94 $0.00 $2,940.73 $2,940.73
+2016 $1,577.85 $1,563.00 $0.00 $3,140.85 $3,140.85
+2015 $889.21 $874.36 $0.00 $1,763.57 $1,763.57
+2014 $914.84 $899.99 $0.00 $1,814.83 $1,814.83
+2013 $919.93 $905.08 $0.00 $1,825.01 $1,825.01
+2012 $998.53 $998.53 $0.00 $1,997.06 $1,997.06
+2011 $1,080.71 $1,065.86 $0.00 $2,146.57 $2,146.57
+ 
+Due Dates:
+May 12, 2025
+November 10, 2025
+ 
+==========================================================================================
+ 
+ 
+--------------------------------------------------------------------------------
+8. Search Address: 1017 Falcon Creek Pkwy Fort Wayne, IN 46845
+--------------------------------------------------------------------------------
+ 
+ 
+Property Information:
+Property Information
+Tax Year/Pay Year
+2024 / 2025
+Parcel Number
+02-02-22-303-007.000-057
+Duplicate Number
+1815457
+Property Type
+Real
+Tax Unit / Description
+57 - Perry
+Property Class
+RESIDENTIAL ONE FAMILY DWELLING ON A PLATTED LOT
+Mortgage Company
+Cotality (prev Corelogic)
+Mtg Company Last Changed
+10/10/2025
+TIF
+None
+Homestead Credit Filed?
+Yes
+Over 65 Circuit Breaker?
+No
+Legal Description
+Note: Not to be used on legal documents
+Falcon Creek Sec I Lot 24
+Section-Township-Range
+No Info
+Parcel Acres
+No Info
+Lot Number
+No Info
+Block/Subdivision
+No info
+ 
+Tax Information:
+Tax Bill Adjustments Balance
+Spring Tax: $563.59 $0.00 $563.59
+Spring Penalty: $0.00 $0.00 $0.00
+Spring Annual: $0.00 $0.00 $0.00
+Fall Tax: $563.59 $0.00 $563.59
+Fall Penalty: $0.00 $0.00 $0.00
+Fall Annual: $0.00 $0.00 $0.00
+Delq NTS Tax: $0.00 $0.00 $0.00
+Delq NTS Pen: $0.00 $0.00 $0.00
+Delq TS Tax: $0.00 $0.00 $0.00
+Delq TS Pen: $0.00 $0.00 $0.00
+Other Assess: $0.00 $0.00 $0.00
+Late Fine: $0.00 $0.00 $0.00
+Late Penalty: $0.00 $0.00 $0.00
+Demand Fee: $0.00 $0.00 $0.00
+Jdg Tax/Pen/Int: $0.00 $0.00 $0.00
+Judgement Fee: $0.00 $0.00 $0.00
+Advert Fee: $0.00 $0.00 $0.00
+Tax Sale Fee: $0.00 $0.00 $0.00
+NSF Fee: $0.00 $0.00 $0.00
+Certified to Court: $0.00 $0.00 $0.00
+LIT Credits: $169.93 $0.00 $169.93
+PTRC: $0.00 $0.00 $0.00
+HMST Credit: $0.00 $0.00 $0.00
+Circuit Breaker Credit: $0.00 $0.00 $0.00
+Over 65 CB Credit: $0.00 $0.00 $0.00
+Tax and Penalty: $1,127.18
+Other Assess (+): $0.00
+Fees (+): $0.00
+Cert to Court (-): $0.00
+Subtotal: $1,127.18
+    Receipts: $563.59
+Total Due: $563.59
+    Surplus Transfer: $0.00
+Account Balance: $563.59
+ 
+Payment History:
+Payable Year Entry Date Payable Period Amount Paid Notes Property Project
+2025 05/08/2025 S $563.59 Lock Box Payment 05/06/2025 N
+ 
+Tax History:
+Pay Year Spring Fall Delinquencies Total Tax Payments
+2025
+$563.59 $563.59 $0.00 $1,127.18 $563.59
+2024 $559.69 $554.69 $0.00 $1,114.38 $1,114.38
+2023 $310.08 $305.08 $0.00 $615.16 $615.16
+2022 $575.01 $570.01 $558.56 $1,703.58 $1,703.58
+2021 $512.78 $507.78 $1,204.98 $2,225.54 $1,717.76
+2020 $550.22 $545.22 $55.02 $1,150.46 $0.00
+2019 $523.02 $518.02 $526.57 $1,567.61 $1,567.61
+2018 $478.70 $478.70 $0.00 $957.40 $478.70
+2017 $474.52 $474.52 $511.73 $1,460.77 $1,460.77
+2016 $465.21 $465.21 $23.26 $953.68 $465.21
+2015 $461.09 $456.09 $0.00 $917.18 $917.18
+2014 $452.15 $447.15 $0.00 $899.30 $899.30
+2013 $438.38 $438.38 $0.00 $876.76 $876.76
+2012 $434.79 $429.79 $0.00 $864.58 $864.58
+2011 $441.53 $436.53 $0.00 $878.06 $878.06
+ 
+Due Dates:
+May 12, 2025
+November 10, 2025
+ 
+==========================================================================================
+

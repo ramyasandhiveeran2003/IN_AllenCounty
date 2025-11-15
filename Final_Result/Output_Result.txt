@@ -1,0 +1,236 @@
+--- Record 1 --- 
+{
+  "parcels": [
+    {
+      "ParcelNumber": "02-02-16-201-009.000-058",
+      "taxYear": "2025",
+      "agencies": [
+        {
+          "installmentAmount1": "$4,199.23",
+          "installmentDueDate1": "05/12/2025",
+          "installmentDelinquentDate1": "05/13/2025",
+          "installmentPaidAmount1": "$2,799.78",
+          "installmentUnPaidAmount1": "$1,399.45",
+          "installmentAmount2": "$4,199.23",
+          "installmentDueDate2": "11/10/2025",
+          "installmentDelinquentDate2": "11/11/2025",
+          "installmentPaidAmount2": "$2,799.78",
+          "installmentUnPaidAmount2": "$1,399.45"
+        }
+      ],
+      "delinquencies": [],
+      "delinquentNotes": []
+    }
+  ]
+}
+
+
+--- Record 2 ---
+{
+  "parcels": [
+    {
+      "ParcelNumber": "02-01-05-200-001.000-044",
+      "taxYear": "2025",
+      "agencies": [
+        {
+          "installmentAmount1": "$1,952.95",
+          "installmentDueDate1": "05/12/2025",
+          "installmentDelinquentDate1": "05/13/2025",
+          "installmentPaidAmount1": "$1,267.36",
+          "installmentUnPaidAmount1": "$685.59",
+          "installmentAmount2": "$1,952.95",
+          "installmentDueDate2": "11/10/2025",
+          "installmentDelinquentDate2": "11/11/2025",
+          "installmentPaidAmount2": "$1,257.36",
+          "installmentUnPaidAmount2": "$695.59"
+        }
+      ],
+      "delinquencies": [
+        {
+          "payoffAmount": "$42.51",
+          "taxYear": "2023"
+        }
+      ],
+      "delinquentNotes": []
+    }
+  ]
+}
+
+
+--- Record 3 --- 
+{
+  "parcels": [
+    {
+      "ParcelNumber": "02-01-05-400-010.000-044",
+      "taxYear": "2025",
+      "agencies": [
+        {
+          "installmentAmount1": "$605.18",
+          "installmentDueDate1": "05/12/2025",
+          "installmentDelinquentDate1": "05/13/2025",
+          "installmentPaidAmount1": "$605.18",
+          "installmentUnPaidAmount1": "$0.00",
+          "installmentAmount2": "$605.18",
+          "installmentDueDate2": "11/10/2025",
+          "installmentDelinquentDate2": "11/11/2025",
+          "installmentPaidAmount2": "$605.18",
+          "installmentUnPaidAmount2": "$0.00"
+        }
+      ],
+      "delinquencies": [
+        {
+          "payoffAmount": "$318.82",
+          "taxYear": "2023"
+        }
+      ],
+      "delinquentNotes": []
+    }
+  ]
+}
+
+
+--- Record 4 --- 
+{
+  "parcels": [
+    {
+      "ParcelNumber": "02-01-06-100-002.000-044",
+      "taxYear": "2025",
+      "agencies": [
+        {
+          "installmentAmount1": "$1,068.67",
+          "installmentDueDate1": "05/12/2025",
+          "installmentDelinquentDate1": "05/13/2025",
+          "installmentPaidAmount1": "$1,068.67",
+          "installmentUnPaidAmount1": "$0.00",
+          "installmentAmount2": "$1,068.67",
+          "installmentDueDate2": "11/10/2025",
+          "installmentDelinquentDate2": "11/11/2025",
+          "installmentPaidAmount2": "$0.00",
+          "installmentUnPaidAmount2": "$1,068.67"
+        }
+      ],
+      "delinquencies": [],
+      "delinquentNotes": []
+    }
+  ]
+}
+
+
+--- Record 5 --- 
+{
+  "parcels": [
+    {
+      "ParcelNumber": "02-02-01-295-029.000-057",
+      "taxYear": "2025",
+      "agencies": [
+        {
+          "installmentAmount1": "$2,336.51",
+          "installmentDueDate1": "05/12/2025",
+          "installmentDelinquentDate1": "05/13/2025",
+          "installmentPaidAmount1": "$2,336.51",
+          "installmentUnPaidAmount1": "$0.00",
+          "installmentAmount2": "$2,336.51",
+          "installmentDueDate2": "11/10/2025",
+          "installmentDelinquentDate2": "11/11/2025",
+          "installmentPaidAmount2": "$0.00",
+          "installmentUnPaidAmount2": "$2,336.51"
+        }
+      ],
+      "delinquencies": [],
+      "delinquentNotes": []
+    }
+  ]
+}
+
+
+--- Record 6 --- 
+{
+  "parcels": [
+    {
+      "ParcelNumber": "02-02-29-280-018.000-058",
+      "taxYear": "2025",
+      "agencies": [
+        {
+          "installmentAmount1": "$1,243.10",
+          "installmentDueDate1": "05/12/2025",
+          "installmentDelinquentDate1": "05/13/2025",
+          "installmentPaidAmount1": "$1,243.10",
+          "installmentUnPaidAmount1": "$0.00",
+          "installmentAmount2": "$1,243.10",
+          "installmentDueDate2": "11/10/2025",
+          "installmentDelinquentDate2": "11/11/2025",
+          "installmentPaidAmount2": "$0.00",
+          "installmentUnPaidAmount2": "$1,243.10"
+        }
+      ],
+      "delinquencies": [
+        {
+          "payoffAmount": "$1,033.32",
+          "taxYear": "2023"
+        }
+      ],
+      "delinquentNotes": []
+    }
+  ]
+}
+
+
+--- Record 7 --- 
+{
+  "parcels": [
+    {
+      "ParcelNumber": "02-01-07-300-015.000-044",
+      "taxYear": "2025",
+      "agencies": [
+        {
+          "installmentAmount1": "$1,223.42",
+          "installmentDueDate1": "05/12/2025",
+          "installmentDelinquentDate1": "05/13/2025",
+          "installmentPaidAmount1": "$1,223.42",
+          "installmentUnPaidAmount1": "$0.00",
+          "installmentAmount2": "$1,223.42",
+          "installmentDueDate2": "11/10/2025",
+          "installmentDelinquentDate2": "11/11/2025",
+          "installmentPaidAmount2": "$0.00",
+          "installmentUnPaidAmount2": "$1,223.42"
+        }
+      ],
+      "delinquencies": [],
+      "delinquentNotes": []
+    }
+  ]
+}
+
+
+--- Record 8 ---
+{
+  "parcels": [
+    {
+      "ParcelNumber": "02-02-22-303-007.000-057",
+      "taxYear": "2025",
+      "agencies": [
+        {
+          "installmentAmount1": "$563.59",
+          "installmentDueDate1": "05/12/2025",
+          "installmentDelinquentDate1": "05/13/2025",
+          "installmentPaidAmount1": "$563.59",
+          "installmentUnPaidAmount1": "$0.00",
+          "installmentAmount2": "$563.59",
+          "installmentDueDate2": "11/10/2025",
+          "installmentDelinquentDate2": "11/11/2025",
+          "installmentPaidAmount2": "$0.00",
+          "installmentUnPaidAmount2": "$563.59"
+        }
+      ],
+      "delinquencies": [
+        { "payoffAmount": "$558.56", "taxYear": "2022" },
+        { "payoffAmount": "$1,204.98", "taxYear": "2021" },
+        { "payoffAmount": "$55.02", "taxYear": "2020" },
+        { "payoffAmount": "$526.57", "taxYear": "2019" },
+        { "payoffAmount": "$511.73", "taxYear": "2017" },
+        { "payoffAmount": "$23.26", "taxYear": "2016" }
+      ],
+      "delinquentNotes": []
+    }
+  ]
+}

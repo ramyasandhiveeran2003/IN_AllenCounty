@@ -1,0 +1,100 @@
+///----------------------> For One Record Search <-------------------------///
+
+Property Information:
+Property Information
+Tax Year/Pay Year
+2024 / 2025
+Parcel Number
+02-01-07-300-015.000-044
+Duplicate Number
+1810447
+Property Type
+Real
+Tax Unit / Description
+44 - Eel River
+Property Class
+AGRICULTURAL - OTHER AGRICULTURAL USE
+Mortgage Company
+None
+TIF
+None
+Homestead Credit Filed?
+No
+Over 65 Circuit Breaker?
+No
+Legal Description
+Note: Not to be used on legal documents
+19 A W 1/2 SW 1/4 S of RR Ex Pt To County Sec 7 & Ex Tr
+Section-Township-Range
+No Info
+Parcel Acres
+14.851
+Lot Number
+No Info
+Block/Subdivision
+No info
+ 
+Tax Information:
+Tax Bill Adjustments Balance
+Spring Tax: $1,208.58 $0.00 $1,208.58
+Spring Penalty: $0.00 $0.00 $0.00
+Spring Annual: $0.00 $0.00 $0.00
+Fall Tax: $1,208.58 $0.00 $1,208.58
+Fall Penalty: $0.00 $0.00 $0.00
+Fall Annual: $0.00 $0.00 $0.00
+Delq NTS Tax: $0.00 $0.00 $0.00
+Delq NTS Pen: $0.00 $0.00 $0.00
+Delq TS Tax: $0.00 $0.00 $0.00
+Delq TS Pen: $0.00 $0.00 $0.00
+Other Assess: $29.68 $0.00 $29.68
+Late Fine: $0.00 $0.00 $0.00
+Late Penalty: $0.00 $0.00 $0.00
+Demand Fee: $0.00 $0.00 $0.00
+Jdg Tax/Pen/Int: $0.00 $0.00 $0.00
+Judgement Fee: $0.00 $0.00 $0.00
+Advert Fee: $0.00 $0.00 $0.00
+Tax Sale Fee: $0.00 $0.00 $0.00
+NSF Fee: $0.00 $0.00 $0.00
+Certified to Court: $0.00 $0.00 $0.00
+LIT Credits: $173.46 $0.00 $173.46
+PTRC: $0.00 $0.00 $0.00
+HMST Credit: $0.00 $0.00 $0.00
+Circuit Breaker Credit: $0.00 $0.00 $0.00
+Over 65 CB Credit: $0.00 $0.00 $0.00
+Tax and Penalty: $2,417.16
+Other Assess (+): $29.68
+Fees (+): $0.00
+Cert to Court (-): $0.00
+Subtotal: $2,446.84
+    Receipts: $1,223.42
+Total Due: $1,223.42
+    Surplus Transfer: $0.00
+Account Balance: $1,223.42
+ 
+Payment History:
+Payable Year Entry Date Payable Period Amount Paid Notes Property Project
+2025 05/15/2025 S $1,223.42 Lock Box Payment Check Nbr 1887 N
+ 
+Tax History:
+Pay Year Spring Fall Delinquencies Total Tax Payments
+2025
+$1,223.42 $1,223.42 $0.00 $2,446.84 $1,223.42
+2024 $988.12 $988.12 $0.00 $1,976.24 $1,976.24
+2023 $905.06 $890.21 $0.00 $1,795.27 $1,795.27
+2022 $820.33 $805.48 $0.00 $1,625.81 $1,625.81
+2021 $880.75 $865.90 $0.00 $1,746.65 $1,746.65
+2020 $933.96 $933.96 $0.00 $1,867.92 $1,867.92
+2019 $904.49 $889.64 $0.00 $1,794.13 $1,794.13
+2018 $970.26 $970.26 $0.00 $1,940.52 $1,940.52
+2017 $1,477.79 $1,462.94 $0.00 $2,940.73 $2,940.73
+2016 $1,577.85 $1,563.00 $0.00 $3,140.85 $3,140.85
+2015 $889.21 $874.36 $0.00 $1,763.57 $1,763.57
+2014 $914.84 $899.99 $0.00 $1,814.83 $1,814.83
+2013 $919.93 $905.08 $0.00 $1,825.01 $1,825.01
+2012 $998.53 $998.53 $0.00 $1,997.06 $1,997.06
+2011 $1,080.71 $1,065.86 $0.00 $2,146.57 $2,146.57
+ 
+Due Dates:
+May 12, 2025
+November 10, 2025
+ 
