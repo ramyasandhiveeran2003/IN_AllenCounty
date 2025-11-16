@@ -98,9 +98,7 @@ The same design is used across my real-world automation of:
 100+ US counties
 400++ scripts (raw text, output, dataset, production)
 
-🙋‍♀️ Author
-
+Author:
 Ramya Sandhiveeran
 Python Automation Engineer | RPA Developer
-📍 Chennai, India
-📧 ramyasandhiveeran0706@gmail.com
+ramyasandhiveeranofficial@gmail.com.com
