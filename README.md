@@ -101,4 +101,4 @@ The same design is used across my real-world automation of:
 Author:
 Ramya Sandhiveeran
 Python Automation Engineer | RPA Developer
-ramyasandhiveeranofficial@gmail.com.com
+ramyasandhiveeranofficial@gmail.com
